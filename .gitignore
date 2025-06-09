@@ -1,0 +1,7 @@
+.venv
+chromaDB
+models/llm/*
+models/embedding/*
+__pycache__
+agents/__pycache__
+models

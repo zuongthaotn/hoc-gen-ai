@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ORD001",
+    "customer": "Alice",
+    "item": "Macbook Pro",
+    "total": "2500 USD",
+    "status": "Delivered"
+  },
+  {
+    "id": "ORD002",
+    "customer": "Bob",
+    "item": "iPhone 14",
+    "total": "1200 USD",
+    "status": "Shipped"
+  },
+  {
+    "id": "ORD003",
+    "customer": "Charlie",
+    "item": "AirPods Pro",
+    "total": "250 USD",
+    "status": "Pending"
+  },
+  {
+    "id": "ORD004",
+    "customer": "Marcus",
+    "item": "Samsung S10",
+    "total": "1500 USD",
+    "status": "Delivered"
+  }
+]
